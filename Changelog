@@ -1,5 +1,5 @@
-(22.12.2019 13:40) Formā OrderLv pievienoju pogu Pasutit bez funkcionalitātes, bet ar caption tulkojumiem
+(22.12.2019 13:40 pfc-mel) Formā OrderLv pievienoju pogu Pasutit bez funkcionalitātes, bet ar caption tulkojumiem
 
 
-(22.12.2019 13:15) Pievienoju formas (CartLv, CatalogLv, DataLv, DeliveryLv, ErrorLv, ErrorRegLv, InvoiceLv, LoginLv, OrdwerLv, RegisterLv, ThanksLv), 
+(22.12.2019 13:15 pfc-mel) Pievienoju formas (CartLv, CatalogLv, DataLv, DeliveryLv, ErrorLv, ErrorRegLv, InvoiceLv, LoginLv, OrdwerLv, RegisterLv, ThanksLv), 
 moduli (Module1), un workbook(ThisWorkbook)
